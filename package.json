@@ -1,0 +1,17 @@
+{
+  "name": "fusebox-react-example",
+  "version": "1.0.0",
+  "description": "This is a simple project showing how to use FuseBox to setup a building system for React applications",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "devDependencies": {
+    "fuse-box": "^3.5.0",
+    "node-sass": "^4.9.3",
+    "typescript": "^3.0.3",
+    "uglify-es": "^3.3.9"
+  }
+}
